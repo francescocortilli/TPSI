@@ -1,6 +1,6 @@
 Progetto di gruppo:
 -Francesco Cortilli: Menù pizze
 -Cheysi Kola
--Denis Branzei
+-Denis Branzei Menù dolci
 -Flavio Grosu: Menù bevande
 -Alessandro Mancini
