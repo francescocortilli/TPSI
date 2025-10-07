@@ -1,4 +1,4 @@
-Progetto di gruppo:
+# Progetto di gruppo:
 
 - Francesco Cortilli: Menù pizze
 - Cheysi Kola
