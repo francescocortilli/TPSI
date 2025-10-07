@@ -3,4 +3,4 @@ Progetto di gruppo:
 -Cheysi Kola
 -Denis Branzei Menù dolci
 -Flavio Grosu: Menù bevande
--Alessandro Mancini
+-Alessandro Mancini: Menù fritti
