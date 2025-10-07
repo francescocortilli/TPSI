@@ -1,7 +1,7 @@
 # Progetto di gruppo:
 
-- Francesco Cortilli: Menù pizze
-- Cheysi Kola
-- Denis Branzei: Menù dolci
-- Flavio Grosu: Menù bevande
-- Alessandro Mancini: Menù fritti
+- Francesco Cortilli: Menù Pizze
+- Cheysi Kola: Menù Hamburger
+- Denis Branzei: Menù Dolci
+- Flavio Grosu: Menù Bevande
+- Alessandro Mancini: Menù Fritti
